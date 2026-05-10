@@ -1,0 +1,24 @@
+{
+  "name": "actividad_2_6_cheerio",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magoxjocker/actividad_2_6_cheerio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magoxjocker/actividad_2_6_cheerio/issues"
+  },
+  "homepage": "https://github.com/Magoxjocker/actividad_2_6_cheerio#readme",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "express": "^5.2.1"
+  }
+}
